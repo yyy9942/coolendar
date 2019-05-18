@@ -1,0 +1,4 @@
+#Sat May 18 17:00:42 KST 2019
+base.0=D\:\\A_TeachingMaterial\\Android\\CCAL\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

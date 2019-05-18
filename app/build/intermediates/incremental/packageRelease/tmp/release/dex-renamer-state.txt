@@ -1,0 +1,4 @@
+#Sat May 18 17:07:46 KST 2019
+base.0=D\:\\A_TeachingMaterial\\Android\\CCAL\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex
